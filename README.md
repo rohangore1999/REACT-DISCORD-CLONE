@@ -1,10 +1,7 @@
 # REACT-DISCORD-CLONE using REDUX, FIREBASE SNAPSHOT (DATABASE)
 Hosted on FIREBASE ~  https://discord-clone-de39b.web.app
 
-
-
-
-
+-----------------------------------------------------------------------------------------
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app), using the [Redux](https://redux.js.org/) and [Redux Toolkit](https://redux-toolkit.js.org/) template.
 
